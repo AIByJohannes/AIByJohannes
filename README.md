@@ -35,9 +35,9 @@ I'm an AI engineer based in Hamburg 🇩🇪, passionate about building intellig
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/AIByJohannes)
+- 💼 [LinkedIn](https://www.linkedin.com/in/johannscopeland)
 - 🐦 [Twitter](https://twitter.com/AIByJohannes)
-- 📧 Email: youremail@example.com
+- 📧 Email: contact@johannescopeland.com
 
 ---
 
