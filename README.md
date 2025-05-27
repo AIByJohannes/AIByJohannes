@@ -1,24 +1,15 @@
 # 👋 Hi, I'm Johannes
 
-I'm an AI engineer based in Hamburg 🇩🇪, passionate about building intelligent systems that make life better. By day, I work on machine learning models and software solutions; by night, I'm pursuing my Master's in Artificial Intelligence and sharing insights on my YouTube channel, as well as my Medium blog.
-
----
-
-## 🧠 What I Do
-
-- 🛠️ Engineer AI-powered solutions
-- 📚 Study AI after hours
-- 🎥 Create content on AI and productivity
-
----
-
-## 🧰 Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+
+I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intelligent systems that make life better and easier. By day, I work with machine learning models and software solutions; by night, I'm pursuing my Master's in Artificial Intelligence and sharing insights on my YouTube channel, as well as my personal blog.
+
 ---
 
 ## 📈 GitHub Stats
