@@ -20,8 +20,6 @@ By day, I work with machine learning models and software solutions; by night, I'
 
 ## 📈 GitHub Stats
 
-![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIByJohannes&show_icons=true&theme=default)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIByJohannes&layout=compact&show_icons=true&theme=default)](https://github.com/AIByJohannes)
 
 
