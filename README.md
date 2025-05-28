@@ -18,8 +18,9 @@ I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intellig
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIByJohannes&layout=compact&show_icons=true&theme=default)](https://github.com/AIByJohannes)
 ![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIByJohannes&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIByJohannes&layout=compact&show_icons=true&theme=default)](https://github.com/AIByJohannes)
 
 ---
 
