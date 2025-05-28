@@ -26,8 +26,7 @@ I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intellig
 
 ## 📺 Latest YouTube Video
 
-[![Latest Video](https://img.shields.io/badge/YouTube-Latest%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/AIByJohannes)
-
+[![Latest Video](https://img.shields.io/badge/YouTube-Latest%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCbHkKsUfa_jjooXU59EzmoQ)
 ---
 
 ## 📫 Let's Connect
