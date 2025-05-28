@@ -12,7 +12,9 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 
-I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intelligent systems that make life better and easier. By day, I work with machine learning models and software solutions; by night, I'm pursuing my Master's in Artificial Intelligence and sharing insights on my YouTube channel, as well as my personal blog.
+I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intelligent systems that make life better and easier. 
+
+By day, I work with machine learning models and software solutions; by night, I'm pursuing my Master's in Artificial Intelligence and sharing insights on my YouTube channel, as well as my personal blog.
 
 ---
 
@@ -22,12 +24,11 @@ I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intellig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIByJohannes&layout=compact&show_icons=true&theme=default)](https://github.com/AIByJohannes)
 
----
 
 ## 📺 Latest YouTube Video
 
 [![Latest Video](https://img.shields.io/badge/YouTube-Latest%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCbHkKsUfa_jjooXU59EzmoQ)
----
+
 
 ## 📫 Let's Connect
 
