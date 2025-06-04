@@ -11,7 +11,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![QNN](https://img.shields.io/badge/Snapdragon-c33139?style=flat&logo=snapdragon&logoColor=white)
 
-I'm an AI Engineer based in Hamburg 🇩🇪, passionate about building intelligent systems that make life better and easier. 
+I'm an AI Engineer based in Germany 🇩🇪, passionate about building intelligent systems that make life better and easier. 
 
 By day, I work with machine learning models and software solutions; by night, I'm pursuing my Master's in Artificial Intelligence and sharing insights on my YouTube channel, as well as my personal blog.
 
