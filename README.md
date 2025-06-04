@@ -18,10 +18,6 @@ By day, I work with machine learning models and software solutions; by night, I'
 
 ---
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIByJohannes&layout=compact&show_icons=true&theme=onedark)](https://github.com/AIByJohannes)
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johannscopeland)
