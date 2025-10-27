@@ -24,5 +24,5 @@ By day, I work with machine learning models and software solutions; by night, I'
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
 
